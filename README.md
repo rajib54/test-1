@@ -19,3 +19,7 @@ during interview We will add follow up questions, and will request an upgrade to
 This test should take between 30 - 90 minutes.
 
 Fork this repo, and submit you test via pull request.
+
+This test is implemented in Java. To run in command prompt please run Main.java file in src/com/toufiq/main folder.
+In windows if you have java setup from src folder you can run java com.toufiq.main.Main.
+Program will ask you to enter command. You can type tail ../sample.txt -n 5 (or any file). If you using eclipse or any other IDE you can just Main.java file.
